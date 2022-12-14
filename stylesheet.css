@@ -1,0 +1,21 @@
+new {
+    font-weight: bold;
+    font-style: italic;
+}
+
+* {
+    text-align: center;
+}
+
+body {
+    background-image: url("images/bglogo.png");
+    background-repeat: repeat-y;
+}
+
+img {
+    box-shadow: 10px 10px 5px;
+}
+
+img {
+    border-radius: 10%;
+}
